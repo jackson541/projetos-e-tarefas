@@ -26,12 +26,16 @@ Ambos os IDs são autoincrementaveis.
 
 # Rodando o projeto
 #### [Yarn](https://yarnpkg.com/)
-Entre na pasta do projeto e digite `yarn start` ou `yarn nodemon index.js`
+Para instalar as dependências: `yarn add`
+
+Entre na pasta do projeto e digite `yarn start` ou `yarn nodemon index.js` para rodar
 
 <br>
 
 #### [npm](https://www.npmjs.com/get-npm)
-Entre na pasta do projeto e digite `npm start` ou `npm nodemon index.js`
+Para instalar as dependências: `npm install`
+
+Entre na pasta do projeto e digite `npm start` ou `npm nodemon index.js` para rodar
 
 <br>
 
